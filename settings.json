@@ -1,7 +1,7 @@
 {
-  "name": "AFK",
+  "name": "2AFK",
   "bot-account": {
-    "username": "irealplayer",
+    "username": "AP97975",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "hi. if you need item /kit tool!",
+        "hello!",
+        "if you want to sell item /ah sell price !"
       ]
     },
     "chat-log": true,
@@ -42,7 +42,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
