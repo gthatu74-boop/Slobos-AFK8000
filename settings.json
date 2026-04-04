@@ -23,12 +23,12 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": true,
+      "enabled": false,
       "sneak": false
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 320,
       "messages": [
         "hi. if you need item /kit tool!",
@@ -61,7 +61,7 @@
     "avoidMobs": false,
     "combat": false,
     "beds": false,
-    "chat": true,
+    "chat": false,
     "console-commands": true
   },
   "combat": {
@@ -76,12 +76,12 @@
     "enabled": false,
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
-      "connect": true,
-      "disconnect": true,
+      "connect": false,
+      "disconnect": false,
       "chat": false
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
