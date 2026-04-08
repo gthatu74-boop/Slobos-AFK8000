@@ -1,7 +1,7 @@
 {
-  "name": "AFK",
+  "name": "opkiller2",
   "bot-account": {
-    "username": "irealplayer",
+    "username": "OPkiller2",
     "password": "",
     "type": "offline"
   },
@@ -20,15 +20,15 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "opkiller290"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
@@ -65,7 +65,7 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
+    "attack-mobs": false,
     "auto-eat": true
   },
   "beds": {
