@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TTpy.aternos.me",
-    "port": 30179,
+    "ip": "ttpy.mcsh.io",
+    "port": 13020,
     "version": "",
     "try-creative": false
   },
