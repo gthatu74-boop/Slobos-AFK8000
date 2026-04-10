@@ -27,13 +27,17 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
-      "repeat-delay": 120,
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 200,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "ber jong buy item so say /ah",
+        "ber jong doo item knea tv player. joj setdown hz joj kub player",
+        "jong ban item free so say /k",
+        "jong ban item free so say /afk",
+        "kjel lg tv afk tv /afk",
+        "mok spawn /s",
+        "chat kom oy ke see < /msg PlayerName kert ey >"
       ]
     },
     "chat-log": true,
