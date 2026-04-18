@@ -42,15 +42,15 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 10000,
+    "auto-reconnect-delay": 5000,
     "max-reconnect-delay": 120000
   },
   "movement": {
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
-      "speed": 2000
+      "radius": 10,
+      "speed": 1500
     },
     "look-around": {
       "enabled": true,
@@ -58,7 +58,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 20000
     }
   },
   "modules": {
@@ -69,7 +69,7 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": false,
+    "attack-mobs": true,
     "auto-eat": true
   },
   "beds": {
